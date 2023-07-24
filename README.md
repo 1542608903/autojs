@@ -1,1 +1,1 @@
-# autojs
+下载autojs，将代码复制到autojs上运行
